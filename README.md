@@ -6,4 +6,4 @@ https://alawimartins.github.io/nato/
 
 ## Preview
 
-![GitHub Logo](/nato.png)
+![GitHub Logo](nato.png)
